@@ -35,4 +35,4 @@ jobs:
           action: "upload"
           app_location: "/" # Change if your app lives in a subfolder
           api_location: ""  # Leave empty if no backend API
-          output_location: "dist" # e.g., "build", "dist" — must match your build output folder
+          output_location: "out" # e.g., "build", "dist" — must match your build output folder
